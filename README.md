@@ -1,0 +1,1 @@
+# NoteCoin.sol
